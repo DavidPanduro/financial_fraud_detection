@@ -37,8 +37,8 @@ Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das 
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/2844aef8-b422-41e4-8fa8-e9b25049b76b)<br>
 <p style="text-align: center;">Fig.06. Best Feature Selection BORUTA </p><br><br> 
 
-Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica e Random Forest. Depois Comparamos as distintas Performances destes.<br><br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/327aa0e3-b760-4724-8c52-2ea84ab62ac0)<br>
+Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica, Random Forest e XGBoost. Depois Comparamos as distintas Performances destes.<br><br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/c727837a-e80c-47f5-b714-4312b77b8db4)<br>
 <p style="text-align: center;">Fig.07. Performance dos Modelos </p><br><br> 
 
 
