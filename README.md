@@ -22,7 +22,8 @@ Para isso passamos pela **Análise Univariada** para ver aspectos como distribui
 A continuação procedemos com a **Análise Bivariada**. Com isso, esperamos ver se cada uma das variáveis consegue ser significativa para discriminar uma classe da outra (fraude/não fraude).<br><br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/62da7abe-bd8f-4178-8d54-d9c444cd7ced)<br>
 <p style="text-align: center;">Fig.04. Análise Bivariada (Fraude / Não Fraude) </p><br><br>
-Além disso, temos a **Análise Multivariada** apresentando um quadro de Correlações incluindo o método Pearson.<br>
+Além disso, temos a **Análise Multivariada** apresentando um quadro de Correlações incluindo o método Pearson.<br><br>
+
 > [!IMPORTANT]
 > As correlações são importantes para tentar evitar a Multicolinearidade <br><br>
 
