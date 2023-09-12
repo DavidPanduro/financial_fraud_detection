@@ -35,9 +35,9 @@ Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das 
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/2b8d5492-14c6-4e46-a0e4-bb834fd3d6eb)<br>
 <p style="text-align: center;">Fig.06. Random Feature Best Selection </p><br><br> 
 
-Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica e Random Forest. Depois Comparamos as distintas Performances destes.<br>
+Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica e Random Forest. Depois Comparamos as distintas Performances destes.<br><br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/327aa0e3-b760-4724-8c52-2ea84ab62ac0)<br>
-<p style="text-align: center;">Fig.07. Comparação dos Modelos </p><br><br> 
+<p style="text-align: center;">Fig.07. Performance dos Modelos </p><br><br> 
 
 
 
