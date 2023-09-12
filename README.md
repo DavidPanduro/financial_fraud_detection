@@ -36,7 +36,8 @@ Entre Análise Univariada e Análises Bivariada já conseguimos um _feeling_ de 
 Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das Evidencias), para saber quais variáveis, mediante tentativa de binarização, carregam um valor de informação significativo.<br> Também aplicamos o Método Boruta que cria variáveis sombras, aplica random forest e finaliza ccom uma distribuição binária para seleção das melhores features. Random FOrest Best Selection é mais um método que implementamos na nossa análise. E finalmente, aplicamos Recursive Feature Elimination (RFE).<br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/2844aef8-b422-41e4-8fa8-e9b25049b76b)<br>
 <p style="text-align: center;">Fig.06. Best Feature Selection BORUTA </p><br><br> 
-
+> [!WARNING]
+> Cabe mencionar que não avaliamos o modelo mediante binarização proveniente do método WOE. Neste caso só usamos WOE como referencia no processo de seleção das features.<br><br>
 Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica, Random Forest e XGBoost. Depois Comparamos as distintas Performances destes.<br><br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/c727837a-e80c-47f5-b714-4312b77b8db4)<br>
 <p style="text-align: center;">Fig.07. Performance dos Modelos - Acurácia, Presição e Recall</p><br><br> 
