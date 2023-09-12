@@ -7,7 +7,7 @@ Os nomes das variáveis foram encapsulados para resguardar a privacidade dos dad
 
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/d731f9fb-fa6b-4a41-8e16-5e9093cdb05d)<br>
 <p style="text-align: center;">Fig.01. Conjunto de Dados </p><br><br>
-A nossa amostra para analise contou de 1.148 registros, e correpondendo a caracteristica do problema apresenta classes totalmente desbalanceadas, situação que foi atendida mediante aplicação de SMOTE.
+A nossa amostra para analise contou de 1.148 registros, e correpondendo a caracteristica do problema apresenta classes totalmente desbalanceadas, situação que foi atendida mediante aplicação de SMOTE.<br><br>
 
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/7dfa6b0e-5b56-47ba-b0e5-e22f7aad045e)<br>
 <p style="text-align: center;">Fig.02. Proporção das Classes </p><br><br>
