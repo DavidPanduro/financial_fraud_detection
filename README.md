@@ -1,6 +1,6 @@
 # Projeto: Financial Fraud Detection
 Por David Panduro 💻<br><br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/91eca738-7f68-45be-9124-55987fe17543)<br><br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/465ec4ae-5531-4464-9ebd-d74effbf8c66)<br>
 
 Desenvolvemos um Modelo para detecção de fraude financeiro de boletos bancários, para um Agente Financeiro muito relevante dentro do Sistema Financeiro Brasileiro.
 A contrucção das variáveis será baseado no histórico transaccional dos clientes, nas características particulares do cliente - sem considerar dados sensíveis (cpf, rg, etc).
