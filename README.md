@@ -40,7 +40,7 @@ Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das 
 > [!WARNING]
 > Cabe mencionar que não avaliamos o modelo mediante binarização proveniente do método WOE. Neste caso só usamos WOE como referencia no processo de seleção das features.<br><br>
 
-Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica, Random Forest e XGBoost. Depois Comparamos as distintas Performances destes.<br><br>
+Aplicamos Algoritmos como Decision Tree, Regressão Logistica, Random Forest e XGBoost. Depois Comparamos as distintas Performances destes.<br><br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/c727837a-e80c-47f5-b714-4312b77b8db4)<br>
 <p style="text-align: center;">Fig.07. Performance dos Modelos - Acurácia, Presição e Recall</p><br><br> 
 
