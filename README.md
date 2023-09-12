@@ -39,7 +39,11 @@ Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das 
 
 Aplicamos Algoritmos simples, Decision Tree, Regressão Logistica, Random Forest e XGBoost. Depois Comparamos as distintas Performances destes.<br><br>
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/c727837a-e80c-47f5-b714-4312b77b8db4)<br>
-<p style="text-align: center;">Fig.07. Performance dos Modelos </p><br><br> 
+<p style="text-align: center;">Fig.07. Performance dos Modelos - Acurácia, Presição e Recall</p><br><br> 
+
+Por último, temos o gráfico comparativo das CURVAS ROC dos modelos.<br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/71be5d65-6c3e-49e1-a933-b89b63c533d3)<br>
+<p style="text-align: center;">Fig.08. Performance dos Modelos - Curva ROC </p><br><br> 
 
 
 
