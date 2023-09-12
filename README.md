@@ -1,6 +1,6 @@
 # Projeto: Financial Fraud Detection
 Por David Panduro 💻<br><br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/465ec4ae-5531-4464-9ebd-d74effbf8c66)<br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/a8f2e60b-0b61-4ffd-9872-b21aaa8ce0a7)<br>
 
 Desenvolvemos um Modelo para detecção de fraude financeiro de boletos bancários, para um Agente Financeiro muito relevante dentro do Sistema Financeiro Brasileiro.
 A contrucção das variáveis será baseado no histórico transaccional dos clientes, nas características particulares do cliente - sem considerar dados sensíveis (cpf, rg, etc).
@@ -20,8 +20,9 @@ Para isso passamos pela **Análise Univariada** para ver aspectos como distribui
 <p style="text-align: center;">Fig.03. Distribuição da Classe Alvo (Fraude / Não Fraude) </p><br><br>
 
 A continuação procedemos com a **Análise Bivariada**. Com isso, esperamos ver se cada uma das variáveis consegue ser significativa para discriminar uma classe da outra (fraude/não fraude).<br><br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/62da7abe-bd8f-4178-8d54-d9c444cd7ced)<br><br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/62da7abe-bd8f-4178-8d54-d9c444cd7ced)<br>
 <p style="text-align: center;">Fig.04. Análise Bivariada (Fraude / Não Fraude) </p><br><br>
+
 
 
 
