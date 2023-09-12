@@ -25,6 +25,7 @@ A continuação procedemos com a **Análise Bivariada**. Com isso, esperamos ver
 Além disso, temos a **Análise Multivariada** apresentando um quadro de Correlações incluindo o método Pearson.<br>
 > [!IMPORTANT]
 > As correlações são importantes para tentar evitar a Multicolinearidade <br><br>
+
 ![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/8d1a033f-6098-4834-8d80-0198670e4429)<br>
 <p style="text-align: center;">Fig.05. Correlações </p><br><br> 
 
