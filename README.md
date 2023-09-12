@@ -32,7 +32,7 @@ Além disso, temos a **Análise Multivariada** apresentando um quadro de Correla
 
 Entre Análise Univariada e Análises Bivariada já conseguimos um _feeling_ de quais features consideraremos para aplicar a modelagem. Já com a Multivariada consideramos retirar alguma variável ou combinar com outra variável para evitar Multicolinearidade. <br>
 Depois do _feeling_ precisamos aplicar métodos sofisticados como WOE (Peso das Evidencias), para saber quais variáveis, mediante tentativa de binarização, carregam um valor de informação significativo.<br> Também aplicamos o Método Boruta que cria variáveis sombras, aplica random forest e finaliza ccom uma distribuição binária para seleção das melhores features. <br> Random FOrest Best Selection é mais um método que implementamos na nossa análise. E finalmente, aplicamos Recursive Feature Elimination (RFE).<br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/36ce8833-2a2d-4e66-91a0-a4865b3f3a95)<br>
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/2b8d5492-14c6-4e46-a0e4-bb834fd3d6eb)<br>
 <p style="text-align: center;">Fig.06. Random Feature Best Selection </p><br><br> 
 
 
