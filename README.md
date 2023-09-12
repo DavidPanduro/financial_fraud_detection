@@ -7,7 +7,7 @@ Os nomes das variáveis foram encapsulados para resguardar a privacidade dos dad
 
 A princípio analisamos o conjunto de dados com o intuito de achar as features que podem ter maior significancia para a melhor generalização do nosso modelo. <br>
 Para isso passamos pela Analise Univariada, para ver aspectos como distribuição, dispersão, medidas de resumo, com o objetivo de compreender as características de cada uma das variáveis individualmente.<br> <br>
-![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/94925f82-7932-400f-9497-8e6f0a7979bf)
+![image](https://github.com/DavidPanduro/financial_fraud_detection/assets/45201867/94925f82-7932-400f-9497-8e6f0a7979bf)<br>
 <p style="text-align: center;">Fig.01. Distribuição da Classe Alvo (Fraude / Não Fraude) </p><br><br>
 
 
